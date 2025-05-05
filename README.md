@@ -2,12 +2,12 @@
 A simple Python-based command-line calculator that supports basic arithmetic operations in a continuous loop until the user decides to exit.
 
 ✅ Features
-Addition (+)
-Subtraction (-)
-Multiplication (*)
-Division (/) with zero division check
-Percentage (%) — calculates (x * 100) / y with input validation
-Type "exit" anytime to stop the program
+-Addition (+)
+-Subtraction (-)
+-Multiplication (*)
+-Division (/) with zero division check
+-Percentage (%) — calculates (x * 100) / y with input validation
+-Type "exit" anytime to stop the program
 
 How to Use:
 Run the script in your terminal.
